@@ -35,7 +35,8 @@ function farm()
     turtle.forward()
   end
   turtle.turnRight()
-print("Gute Nacht :)")
+  print("Gute Nacht :)")
+  sleep(21000)
   farm()
 end
 
